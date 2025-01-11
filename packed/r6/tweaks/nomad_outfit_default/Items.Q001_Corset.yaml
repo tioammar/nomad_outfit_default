@@ -52,13 +52,13 @@ Items.Red_Play_TShirt:
   cameraForward: {x: 0, y: 0, z: 0}
   cameraUp: {x: 0, y: 0, z: 0}
   connections: []
-  displayName: LocKey("v_shirt_name")
+  displayName: LocKey("v_corset_name")
   equipAreas: []
   equipPrereqs: []
   gameplayRestrictions:
     - GameplayRestriction.VehicleCombatNoInterruptions
   hairSkinnedMeshComponents: []
-  localizedDescription: LocKey("v_shirt_desc")
+  localizedDescription: LocKey("v_corset_desc")
   OnAttach: []
   OnEquip: []
   OnLooted: []

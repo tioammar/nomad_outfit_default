@@ -30,7 +30,7 @@ Items.Q001_TShirt:
   minigameInstance: minigame_v2.DefaultItemMinigame
   parentAttachmentType: ParentAttachmentType.Skinned
   powerLevelDeterminedByParent: False
-  quality: Quality.Random
+  quality: Quality.Legendary
   qualityRestrictedByParent: False
   replicateWhenNotActive: False
   upgradeCostMult: 1
