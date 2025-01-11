@@ -3,7 +3,7 @@ Items.Q001_TShirt:
   animFeatureName: ItemData
   animName: ui_garment_pose
   animSetResource: ''
-  appearanceName: t1_tshirt_08_basic_02_
+  appearanceName: t1_tshirt_08_basic_01_
   blueprint: Items.InnerChestClothingBlueprint
   canDrop: True
   crosshair: Crosshairs.None

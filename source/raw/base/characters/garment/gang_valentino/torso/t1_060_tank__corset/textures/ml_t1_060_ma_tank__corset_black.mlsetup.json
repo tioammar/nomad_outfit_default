@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.11.0",
     "WKitJsonVersion": "0.0.8",
     "GameVersion": 2000,
-    "ExportedDateTime": "2025-01-11T10:41:48.016Z",
+    "ExportedDateTime": "2025-01-11T22:26:40.853Z",
     "DataType": "CR2W",
     "ArchiveFileName": ""
   },
@@ -81,7 +81,7 @@
           "colorScale": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "7486e1_d42857"
+            "$value": "078fe3_d42857"
           },
           "material": {
             "DepotPath": {
@@ -163,7 +163,7 @@
           "metalLevelsOut": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "280c47"
+            "$value": "7cda36"
           },
           "microblend": {
             "DepotPath": {
@@ -515,7 +515,7 @@
           "colorScale": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "d91082_69039f"
+            "$value": "078fe3_b0f317"
           },
           "material": {
             "DepotPath": {
@@ -535,7 +535,7 @@
           "metalLevelsOut": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "280c47"
+            "$value": "7cda36"
           },
           "microblend": {
             "DepotPath": {
@@ -552,7 +552,7 @@
           "normalStrength":{
             "$type": "CName",
             "$storage": "string",
-            "$value": "47c7da"
+            "$value": "null"
           },
           "offsetU": 0,
           "offsetV": 0,
@@ -577,7 +577,7 @@
           "colorScale": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "7486e1_69039f"
+            "$value": "7486e1_b70712"
           },
           "material": {
             "DepotPath": {
@@ -614,7 +614,7 @@
           "normalStrength":{
             "$type": "CName",
             "$storage": "string",
-            "$value": "5e70be"
+            "$value": "6d8251"
           },
           "offsetU": 0,
           "offsetV": 0,
@@ -949,18 +949,18 @@
           "colorScale": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "5d89c8_b70712"
+            "$value": "a31716_null"
           },
           "material": {
             "DepotPath": {
               "$type": "ResourcePath",
               "$storage": "string",
-              "$value": "base\\surfaces\\materials\\fabric\\wool\\wool_knit_clean_03_30.mltemplate"
+              "$value": "base\\surfaces\\materials\\metal\\gold\\gold_rough_01_300.mltemplate"
             },
             "Flags": "Default"
           },
-          "matTile": 6.93,
-          "mbTile": 10.1000004,
+          "matTile": 1.00,
+          "mbTile": 1,
           "metalLevelsIn": {
             "$type": "CName",
             "$storage": "string",
@@ -975,21 +975,21 @@
             "DepotPath": {
               "$type": "ResourcePath",
               "$storage": "string",
-              "$value": "base\\surfaces\\microblends\\fine_filth.xbm"
+              "$value": "base\\surfaces\\microblends\\graphics_logos_003.xbm"
             },
             "Flags": "Default"
           },
-          "microblendContrast": 0.73,
+          "microblendContrast": 1.00,
           "microblendNormalStrength": 0.01,
-          "microblendOffsetU": 0,
-          "microblendOffsetV": 0,
+          "microblendOffsetU": 0.349999994,
+          "microblendOffsetV": 0.930000007,
           "normalStrength":{
             "$type": "CName",
             "$storage": "string",
-            "$value": "e6296e"
+            "$value": "f3d6fb"
           },
-          "offsetU": 0,
-          "offsetV": 0,
+          "offsetU": 0.349999994,
+          "offsetV": 0.930000007,
           "opacity": 0,
           "overrides": {
             "$type": "CName",
@@ -1004,7 +1004,7 @@
           "roughLevelsOut": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "feaf5b"
+            "$value": "d31a79"
           }
         },
         {
@@ -1074,7 +1074,7 @@
           "colorScale": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "d91082_d42857"
+            "$value": "078fe3_d42857"
           },
           "material": {
             "DepotPath": {
@@ -1136,7 +1136,7 @@
           "colorScale": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "18c532_b70712"
+            "$value": "078fe3_d42857"
           },
           "material": {
             "DepotPath": {
@@ -1198,7 +1198,7 @@
           "colorScale": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "a336a5_b0f317"
+            "$value": "cd1a1d_d42857"
           },
           "material": {
             "DepotPath": {
@@ -1239,7 +1239,6 @@
           },
           "offsetU": 0,
           "offsetV": 0,
-          "opacity": 0.850000024,
           "overrides": {
             "$type": "CName",
             "$storage": "string",
