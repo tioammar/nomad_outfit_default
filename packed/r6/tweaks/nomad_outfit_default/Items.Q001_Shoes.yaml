@@ -1,0 +1,13 @@
+Items.Q001_Shoes:
+  $base: Items.GenericFootClothing
+  entityName: v_boots_item
+  appearanceName: v_boots_
+  displayName: LocKey("v_boots_name")
+  localizedDescription: LocKey("v_boots_desc")
+  quality: Quality.Legendary
+  statModifiers:
+   - !append Character.ScaleToPlayerLevel
+  icon:
+    atlasResourcePath: base\gameplay\gui\common\icons\items\item_icons13.inkatlas
+    atlasPartName: clothing_player_feet_item_set_01_cop_01_s1__Male_
+
