@@ -3,7 +3,7 @@ Items.Q001_TShirt:
   animFeatureName: ItemData
   animName: ui_garment_pose
   animSetResource: ''
-  appearanceName: t1_tshirt_08_basic_01_
+  appearanceName: set_01_q202_epilogue_t1_
   blueprint: Items.InnerChestClothingBlueprint
   canDrop: True
   crosshair: Crosshairs.None
@@ -30,7 +30,7 @@ Items.Q001_TShirt:
   minigameInstance: minigame_v2.DefaultItemMinigame
   parentAttachmentType: ParentAttachmentType.Skinned
   powerLevelDeterminedByParent: False
-  quality: Quality.Legendary
+  quality: Quality.Random
   qualityRestrictedByParent: False
   replicateWhenNotActive: False
   upgradeCostMult: 1
@@ -74,13 +74,11 @@ Items.Q001_TShirt:
     - Price.TShirt
   slotPartList:
     - Items.GenericRootSlotItem
+    - Items.GenericInnerChestClothing_inline0
   slotPartListPreset: []
   tags:
     - Clothing
     - InnerChestArmor
-    - EmptySlots
-    - Simple
-    - Casual
   variants: []
   visualTags: []
   effectors: []
@@ -100,6 +98,7 @@ Items.Q001_TShirt:
     - Items.InnerChestClothingBase_inline5
     - Items.InnerChestClothingBase_inline6
     - Items.InnerChestClothingBase_inline7
-    - Items.EmptySlotsTShirt_inline0
+    - Items.TShirt_inline0
   statPools: []
   weakspots: []
+  scaleToPlayer: True
