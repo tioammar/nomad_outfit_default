@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.11.0",
     "WKitJsonVersion": "0.0.8",
     "GameVersion": 2000,
-    "ExportedDateTime": "2025-01-11T23:26:26.838Z",
+    "ExportedDateTime": "2025-01-12T11:39:03.618Z",
     "DataType": "CR2W",
     "ArchiveFileName": ""
   },
@@ -19,7 +19,7 @@
           "colorScale": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "6849b7_d42857"
+            "$value": "1d88a0_69039f"
           },
           "material": {
             "DepotPath": {
@@ -81,7 +81,7 @@
           "colorScale": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "6849b7_d42857"
+            "$value": "1d88a0_69039f"
           },
           "material": {
             "DepotPath": {
@@ -825,7 +825,7 @@
           "colorScale": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "2251f0_d42857"
+            "$value": "6fd6a3_d42857"
           },
           "material": {
             "DepotPath": {
@@ -1013,7 +1013,7 @@
           "colorScale": {
             "$type": "CName",
             "$storage": "string",
-            "$value": "35f4d2_a1b637"
+            "$value": "67306a_d42857"
           },
           "material": {
             "DepotPath": {
