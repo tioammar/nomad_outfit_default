@@ -7,6 +7,7 @@ base\boots\v_boots_m.ent
 base\boots\v_boots_w.ent
 base\boots\v_boots.app
 base\characters\garment\gang_aldecaldos\torso\t2_091_jacket__racing\textures\carbon_military_black.mlsetup
+base\characters\garment\gang_nomad\feet\s1_026_boot__heavy\textures\leather_black.mlsetup
 base\characters\garment\gang_valentino\torso\t1_060_tank__corset\textures\ml_t1_060_ma_tank__corset_black.mlsetup
 base\cyberdeck\icons\v_cyberdeck.inkatlas
 base\cyberdeck\icons\v_cyberdeck.xbm
@@ -44,4 +45,12 @@ base\cyberdeck\v_cyberdeck.app
 base\localization\en-us.json
 base\v_boots.csv
 base\v_cyberdeck.csv
+ep1\weapons\firearms\handgun\constitutional_unity\entities\meshes\textures\ml_w_att__power_13_01_masksset.mlsetup
+ep1\weapons\firearms\handgun\constitutional_unity\entities\meshes\textures\ml_w_handgun__constitutional_unity__base1_01_glory_01.mlsetup
+ep1\weapons\firearms\handgun\constitutional_unity\entities\meshes\textures\tpp\w_handgun__constitutional_unity__base1_01_majesty_01_n01.xbm
+ep1\weapons\firearms\handgun\constitutional_unity\entities\meshes\w_handgun__constitutional_unity__base1_01_glory_01_shadow.mesh
+ep1\weapons\firearms\handgun\constitutional_unity\entities\meshes\w_handgun__constitutional_unity__base1_01_glory_01.mesh
+ep1\weapons\firearms\handgun\constitutional_unity\entities\meshes\w_handgun__constitutional_unity__base1_01_glory_nomuzzle_01.mesh
+ep1\weapons\firearms\handgun\constitutional_unity\entities\meshes\w_handgun__constitutional_unity__base1_01_glory2_01.mesh
+etc\localization\en-us.json
 iconic_glory\localization\en-us.json
